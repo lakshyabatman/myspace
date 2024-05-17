@@ -2,7 +2,7 @@ import 'node:fs';
 import { e as appendForwardSlash, j as joinPaths, t as trimSlashes, s as slash, p as prependForwardSlash, r as removeTrailingForwardSlash, f as collapseDuplicateSlashes } from './chunks/astro/assets-service_JPEvLPWx.mjs';
 import { serialize, parse } from 'cookie';
 import { A as AstroError, R as ResponseSentError, t as MiddlewareNoDataOrNextCalled, v as MiddlewareNotAResponse, G as GetStaticPathsRequired, w as InvalidGetStaticPathsReturn, x as InvalidGetStaticPathsEntry, y as GetStaticPathsExpectedParams, z as GetStaticPathsInvalidRouteParam, P as PageNumberParamNotFound, N as NoMatchingStaticPathFound, B as PrerenderDynamicEndpointPathCollide, C as LocalsNotAnObject, D as ASTRO_VERSION, H as ClientAddressNotAvailable, S as StaticClientAddressNotAvailable, J as renderEndpoint, K as ReservedSlotName, O as renderSlotToString, Q as renderJSX, T as chunkToString, V as CantRenderPage, W as renderPage$1 } from './chunks/astro_M3CLt_ij.mjs';
-import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_RDFu96-6.mjs';
+import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_vceiarsv.mjs';
 import 'kleur/colors';
 import 'clsx';
 import buffer from 'node:buffer';
@@ -2131,7 +2131,7 @@ const _manifest = Object.assign(manifest, {
 	pageMap,
 	renderers,
 });
-const _args = {"middlewareSecret":"0d52301f-8b46-4757-bcb5-1110c6903478","skewProtection":false};
+const _args = {"middlewareSecret":"def21fd8-8a16-4292-aeae-2f2d180f8a5c","skewProtection":false};
 
 const _exports = createExports(_manifest, _args);
 const _default = _exports['default'];
