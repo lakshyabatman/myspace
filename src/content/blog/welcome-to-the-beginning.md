@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Beginning
 author: Lakshya Khera
-pubDatetime: 2024-05-18T00:00:00
+pubDatetime: 2024-05-18T00:00:00+05:30
 slug: the-beginning
 featured: true
 draft: false
