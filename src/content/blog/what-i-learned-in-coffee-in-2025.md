@@ -1,7 +1,7 @@
 ---
-title: What I've learned in coffee in 2024
+title: What I've learned in coffee in 2025
 author: Lakshya Khera
-pubDatetime: 2025-12-30T00:00:00+05:30
+pubDatetime: 2025-12-29T00:00:00+05:30
 slug: coffee
 featured: true
 draft: false
@@ -11,6 +11,8 @@ tags:
   - coffee brewing
 description: Some personal learning on coffee brewing in 2025
 ---
+
+### What I've learned in coffee in 2025
 
 They all say coffee is subjective and depends on person to person but it’s more complex than this, a person’s perception about taste profile changes so drastically based on numerous reasons.
 
