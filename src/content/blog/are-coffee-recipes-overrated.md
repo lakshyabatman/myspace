@@ -33,7 +33,7 @@ Personally, I enjoy it when things are shared with reasoning and logic behind th
 
 If you notice a pattern here, all of these parameters control extraction yield. It’s essentially fine-tuning variables to get well-balanced extraction, which also means you need to change them depending on the varietal, process, and roast of the coffee.
 
-````
+```
 Let’s understand this with a simple equation.
 
 F(x, y, z) is a function that gives you brewed coffee, where x, y, and z are parameters like temperature, grind size, and ratio.
@@ -43,6 +43,7 @@ But the function is incomplete—something most people fail to acknowledge.
 The missing parameter, w, is the coffee itself. This is what solves the puzzle and tells you what your x, y, and z should be.
 
 F(w, x, y, z) → coffee ☕
+
 ```
 
 
