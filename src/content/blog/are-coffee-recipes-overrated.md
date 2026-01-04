@@ -2,7 +2,7 @@
 title: Are coffee recipes overrated
 author: Lakshya Khera
 pubDatetime: 2026-01-05T00:00:00+05:30
-slug: coffee
+slug: are-coffee-recipes-overrated
 featured: true
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: What I've learned in coffee in 2025
 author: Lakshya Khera
 pubDatetime: 2025-12-29T00:00:00+05:30
-slug: coffee
+slug: coffee-learnings-2025
 featured: true
 draft: false
 tags:
