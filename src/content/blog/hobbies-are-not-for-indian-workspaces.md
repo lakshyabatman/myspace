@@ -1,7 +1,7 @@
 ---
 title: Hobbies are not for Indian workspaces
 author: Lakshya Khera
-pubDatetime: 2024-05-21T10:00:00+05:30
+pubDatetime: 2026-01-14T10:00:00+05:30
 slug: hobbies-are-not-for-indian-workspaces
 featured: true
 draft: false
